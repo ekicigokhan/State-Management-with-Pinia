@@ -1,0 +1,22 @@
+{
+  "daily": [
+    {
+      "id": 1,
+      "daily": "selam",
+      "date": "24.8.2023",
+      "isFav": false
+    },
+    {
+      "id": 2,
+      "daily": "naber",
+      "date": "24.8.2023",
+      "isFav": false
+    },
+    {
+      "id": 4,
+      "daily": "adsa",
+      "date": "24.8.2023",
+      "isFav": false
+    }
+  ]
+}
